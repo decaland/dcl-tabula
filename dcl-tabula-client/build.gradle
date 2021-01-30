@@ -4,3 +4,7 @@ plugins {
 }
 
 group = 'com.github.decaland.tabula'
+
+dependencies {
+    api project(':dcl-tabula-model')
+}

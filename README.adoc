@@ -1,0 +1,7 @@
+= Decaland Tabula
+
+A blank project to be used as a template for a Decaland microservice. Includes three publishable sub-projects:
+
+- `app`: the executable application,
+- `client`: the library that helps to consume the application's public API,
+- `model`: the library that provides models that are part of the application's public API.

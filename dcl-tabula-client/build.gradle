@@ -1,0 +1,6 @@
+plugins {
+    id 'dcl-boot-lib-java-kotlin'
+    id 'dcl-essential-dependencies'
+}
+
+group = 'com.github.decaland.tabula'

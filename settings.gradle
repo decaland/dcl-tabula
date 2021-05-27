@@ -6,7 +6,7 @@ pluginManagement {
         id 'dcl-boot-lib-java-kotlin'   version "${getProperty('dcl.version.touchstone')}"
         id 'dcl-boot-app-java'          version "${getProperty('dcl.version.touchstone')}"
         id 'dcl-boot-app-java-kotlin'   version "${getProperty('dcl.version.touchstone')}"
-        id 'dcl-essential-dependencies' version "${getProperty('dcl.version.touchstone')}"
+        id 'dcl-uses-junit-five'        version "${getProperty('dcl.version.touchstone')}"
     }
     repositories {
         maven { url 'https://serpnet.jfrog.io/artifactory/decaland-maven-releases' }

@@ -1,6 +1,6 @@
 plugins {
     id 'dcl-boot-lib-java-kotlin'
-    id 'dcl-essential-dependencies'
+    id 'dcl-uses-junit-five'
 }
 
 group = 'com.github.decaland.tabula'
